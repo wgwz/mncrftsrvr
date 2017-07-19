@@ -8,6 +8,3 @@ services:
       - '.env'
     ports:
       - '25565:25565'
-    volumes:
-      - './mods:/mods'
-      - './mcpipy:/data/mcpipy'
