@@ -1,0 +1,21 @@
+[04:22:41] [Server thread/INFO]: Starting minecraft server version 1.12
+[04:22:41] [Server thread/INFO]: Loading properties
+[04:22:41] [Server thread/INFO]: Default game type: SURVIVAL
+[04:22:41] [Server thread/INFO]: Generating keypair
+[04:22:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:22:42] [Server thread/INFO]: Using epoll channel type
+[04:22:42] [Server thread/INFO]: Preparing level "world"
+[04:22:43] [Server thread/INFO]: Loaded 488 advancements
+[04:22:44] [Server thread/INFO]: Preparing start region for level 0
+[04:22:45] [Server thread/INFO]: Preparing spawn area: 0%
+[04:22:46] [Server thread/INFO]: Preparing spawn area: 11%
+[04:22:47] [Server thread/INFO]: Preparing spawn area: 36%
+[04:22:48] [Server thread/INFO]: Preparing spawn area: 64%
+[04:22:49] [Server thread/INFO]: Preparing spawn area: 86%
+[04:22:50] [Server thread/INFO]: Done (7.424s)! For help, type "help" or "?"
+[04:22:50] [Server thread/INFO]: Starting remote control listener
+[04:22:50] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[04:23:00] [User Authenticator #1/INFO]: UUID of player deBlauweCheetah is 8bde9719-6b9d-48b0-bf8b-c3b6dc6d61d4
+[04:23:00] [Server thread/INFO]: deBlauweCheetah[/192.168.2.2:53031] logged in with entity id 264 at (128.5, 67.0, 252.5)
+[04:23:00] [Server thread/INFO]: deBlauweCheetah joined the game
+[04:23:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7238ms behind, skipping 144 tick(s)
